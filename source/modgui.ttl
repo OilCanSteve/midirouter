@@ -1,0 +1,23 @@
+@prefix modgui: <http://moddevices.com/ns/modgui#> .
+@prefix lv2:    <http://lv2plug.in/ns/lv2core#> .
+
+<https://github.com/stivb/oilcanplugins/midirouter>
+    modgui:gui [
+        modgui:resourcesDirectory <modgui> ;
+        modgui:iconTemplate <modgui/icon-oilcan-midirouter.html> ;
+        modgui:stylesheet <modgui/stylesheet-oilcan-midirouter.css> ;
+        modgui:screenshot <modgui/screenshot-oilcan-midirouter.png> ;
+        modgui:javascript <modgui/midirouter.js> ;
+        modgui:thumbnail <modgui/thumbnail-oilcan-midirouter.png> ;
+        modgui:brand "OilCan" ;
+        modgui:label "MIDIROUTER" ;
+        modgui:model "boxy" ;
+        modgui:panel "1-knob" ;
+        modgui:color "pink" ;
+        modgui:knob "petrol" ;
+        modgui:port [
+            lv2:index 0 ;
+            lv2:symbol "GatesBits" ;
+            lv2:name "Gate Pattern" ;
+        ] ;
+    ] .
