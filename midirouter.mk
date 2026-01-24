@@ -3,7 +3,7 @@
 # MIDIROUTER
 #
 ######################################
-MIDIROUTER_VERSION = d6e9096d426160f248e12ec69ebeed73d0ed19dc
+MIDIROUTER_VERSION = cae50998209d05ccd962fd3cd7bd1c3f0a6af123
 MIDIROUTER_SITE = https://github.com/stivb/midirouter.git
 MIDIROUTER_SITE_METHOD = git
 MIDIROUTER_BUNDLES = midirouter.lv2
