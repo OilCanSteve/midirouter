@@ -12,10 +12,10 @@
 
 
 <https://github.com/stivb/midirouter>
-	a lv2:Plugin ;
+	a lv2:Plugin, lv2:UtilityPlugin;
 	doap:name "OilCan Midirouter" ;
 	lv2:minorVersion 0 ;
-	lv2:microVersion 15 ;
+	lv2:microVersion 8 ;
 	lv2:project <https://github.com/stivb/oilcansteve>;
 	doap:license "GPLv3" ;
 
