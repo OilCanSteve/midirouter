@@ -4,7 +4,7 @@
 #
 ######################################
 MIDIROUTER_VERSION = 8c175649b4e7392002fad54d67dd195ad7e42ec2
-MIDIROUTER_SITE = https://github.com/stivb/midirouter.git
+MIDIROUTER_SITE = https://github.com/OilCanSteve/midirouter.git
 MIDIROUTER_SITE_METHOD = git
 MIDIROUTER_BUNDLES = midirouter.lv2
 

@@ -9,7 +9,7 @@
 #include "lv2/patch/patch.h"
 #include "lv2/urid/urid.h"
 
-#define MIDIROUTER_URI "https://github.com/stivb/midirouter"
+#define MIDIROUTER_URI "https://github.com/OilCanSteve/midirouter"
 
 typedef struct {
   LV2_URID atom_Path;
