@@ -9,7 +9,7 @@
         modgui:screenshot <modgui/screenshot-oilcan-midirouter.png> ;
         modgui:javascript <modgui/midirouter.js> ;
         modgui:thumbnail <modgui/thumbnail-oilcan-midirouter.png> ;
-        modgui:brand "OilCan" ;
+        modgui:brand "ocs" ;
         modgui:label "MIDIROUTER" ;
         modgui:model "boxy" ;
         modgui:panel "1-knob" ;

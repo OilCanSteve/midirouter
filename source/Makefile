@@ -3,7 +3,7 @@ include Makefile.mk
 
 # ---------replace _LC_LIB_NAME_with the actual dev folder name -----------------
 
-STEM = midirouter
+STEM = ocs-midirouter
 PREFIX  ?= /usr/local
 DESTDIR ?=
 BUNDLEDIR = $(STEM).lv2
